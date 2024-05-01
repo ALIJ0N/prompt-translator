@@ -4,4 +4,4 @@ Yapmanız gerekenler dosyayı zip olarak indirin ve ziptan çıkarıp ```\stable
 
 Kullanmak için prompt kısmına gelip türkçe yazıp enter tuşuna basın
 
-<video src="0502(1).mp4" width="320" height="240" controls></video>
+<video src="0502%20(1).mp4" width="320" height="240" controls></video>
